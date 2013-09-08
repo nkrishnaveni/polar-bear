@@ -1,0 +1,16 @@
+//= require es5-shim
+//= require jquery-1.7.2.min
+//= require jquery-ui-1.8.24.custom.min
+//= require jquery.multiselect
+//= require jquery.multiselect.filter
+//= require underscore-1.3.3-min
+//= require mustache
+//= require jquery.tablesorter
+//= require jquery.tablesorter.pager
+//= require json2
+//= require d3.v3.min
+//= require rickshaw.min
+//= require moment.min
+//= require handlebars
+//= require ember-1.0.0-pre.4
+//= require jstz-1.0.4.min
